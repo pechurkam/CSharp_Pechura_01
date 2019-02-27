@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace WpfApp1
+namespace CSharp_Pechura_01
 {
     public class RelayCommand<T> : ICommand
     {

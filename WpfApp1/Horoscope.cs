@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WpfApp1
+namespace CSharp_Pechura_01
 {
     class Horoscope : INotifyPropertyChanged
     {

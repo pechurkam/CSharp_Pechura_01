@@ -1,4 +1,5 @@
 ﻿using System.Windows.Controls;
+using CSharp_Pechura_01;
 
 namespace WpfApp1
 {

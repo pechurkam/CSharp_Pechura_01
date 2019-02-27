@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows;
 
-namespace WpfApp1
+namespace CSharp_Pechura_01
 {
     internal interface ILoaderOwner : INotifyPropertyChanged
     {

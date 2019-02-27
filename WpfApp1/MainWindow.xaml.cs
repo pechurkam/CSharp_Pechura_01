@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace WpfApp1
+namespace CSharp_Pechura_01
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

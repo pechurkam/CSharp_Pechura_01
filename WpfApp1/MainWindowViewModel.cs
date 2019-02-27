@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Windows;
-using WpfApp1.Annotations;
+using CSharp_Pechura_01.Annotations;
 
-namespace WpfApp1
+namespace CSharp_Pechura_01
 {
     internal class MainWindowViewModel : INotifyPropertyChanged, ILoaderOwner
     {
