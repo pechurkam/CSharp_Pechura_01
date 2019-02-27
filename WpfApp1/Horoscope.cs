@@ -39,13 +39,8 @@ namespace CSharp_Pechura_01
                 OnPropertyChanged();
             }
         }
-        private void SignUpBt_OnClick(object sender, RoutedEventArgs e)
-        {
-                MessageBox.Show("Date successfully entered");
-        }
         public string CalcChineseHorosc()
         {
-            //string zod = "";
             string[] zodiacSigns = { "Криса", "Бик", "Тигр", "Кролик", "Дракон", "Змія", "Кінь", "Коза", "Мавпа", "Півень", "Собака", "Свиня" };
      
             return zodiacSigns[(Convert.ToDateTime(_date).Year - 4) % 12]; 
